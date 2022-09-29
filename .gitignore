@@ -1,0 +1,11 @@
+/vendor/
+config.php
+composer.lock
+/.idea/.gitignore
+/.idea/Gradely.iml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sqldialects.xml
+/.idea/vcs.xml
